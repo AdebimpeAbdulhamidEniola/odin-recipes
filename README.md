@@ -1,7 +1,7 @@
 # odin-recipes
 This project is an assignment from the odin project.
 By the end of this assignment, I would have mastered the use of common HTML tags such as:  
-<l> tag (link)  
+link tag   
 html5 boilerplate  
-<img> tag  
-<h1> tag  
+image tag  
+h1 tag  
